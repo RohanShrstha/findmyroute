@@ -1,0 +1,1395 @@
+[
+  {
+    "type": "node",
+    "id": 268116939,
+    "lat": 27.7188423,
+    "lon": 85.3095996,
+    "tags": {
+      "highway": "bus_stop",
+      "name": "Sorhakhutte",
+      "public_transport": "stop_position"
+    }
+  },
+  {
+    "type": "node",
+    "id": 296344440,
+    "lat": 27.7159831,
+    "lon": 85.2835588,
+    "tags": {
+      "highway": "bus_stop",
+      "name": "Swayambu stop",
+      "public_transport": "stop_position"
+    }
+  },
+  {
+    "type": "node",
+    "id": 670651214,
+    "lat": 27.6879843,
+    "lon": 85.3162249,
+    "tags": {
+      "highway": "bus_stop",
+      "name": "Kupondol stop",
+      "name:en": "Kupondole bus stop",
+      "public_transport": "stop_position"
+    }
+  },
+  {
+    "type": "node",
+    "id": 670654518,
+    "lat": 27.6732666,
+    "lon": 85.3135375,
+    "tags": {
+      "highway": "bus_stop",
+      "name": "Jawalakhel"
+    }
+  },
+  {
+    "type": "node",
+    "id": 724363694,
+    "lat": 27.6997042,
+    "lon": 85.3139878,
+    "tags": {
+      "bench": "no",
+      "highway": "bus_stop",
+      "shelter": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 764927361,
+    "lat": 27.6845309,
+    "lon": 85.3018585,
+    "tags": {
+      "highway": "bus_stop",
+      "name": "Sanepa"
+    }
+  },
+  {
+    "type": "node",
+    "id": 764927442,
+    "lat": 27.6849132,
+    "lon": 85.2986117,
+    "tags": {
+      "highway": "bus_stop",
+      "name": "Balkhu"
+    }
+  },
+  {
+    "type": "node",
+    "id": 845503448,
+    "lat": 27.7335107,
+    "lon": 85.3085025,
+    "tags": {
+      "highway": "bus_stop",
+      "name": "To Besi sihara",
+      "note": "25&27 ticket window"
+    }
+  },
+  {
+    "type": "node",
+    "id": 913398284,
+    "lat": 27.6787869,
+    "lon": 85.2971844,
+    "tags": {
+      "highway": "bus_stop",
+      "name": "TU Gate",
+      "public_transport": "stop_position"
+    }
+  },
+  {
+    "type": "node",
+    "id": 913398317,
+    "lat": 27.6747581,
+    "lon": 85.2804077,
+    "tags": {
+      "highway": "bus_stop",
+      "name": "Panga Dobato",
+      "public_transport": "stop_position"
+    }
+  },
+  {
+    "type": "node",
+    "id": 913398439,
+    "lat": 27.6766588,
+    "lon": 85.2835112,
+    "tags": {
+      "highway": "bus_stop",
+      "name": "Tinkune",
+      "public_transport": "stop_position"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1124397505,
+    "lat": 27.6747945,
+    "lon": 85.2777568,
+    "tags": {
+      "highway": "bus_stop",
+      "name": "Nagaon Dobato",
+      "public_transport": "stop_position"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1143907471,
+    "lat": 27.7282299,
+    "lon": 85.3460335,
+    "tags": {
+      "highway": "bus_stop",
+      "name": "Sukedhara"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1399507923,
+    "lat": 27.7069661,
+    "lon": 85.3226211,
+    "tags": {
+      "bench": "no",
+      "highway": "bus_stop",
+      "lit": "no",
+      "name": "Putali Sadak",
+      "shelter": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1496573247,
+    "lat": 27.6666354,
+    "lon": 85.3083104,
+    "tags": {
+      "highway": "bus_stop",
+      "name": "Ekantakuna",
+      "public_transport": "stop_position"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1496573304,
+    "lat": 27.6726494,
+    "lon": 85.3132419,
+    "tags": {
+      "highway": "bus_stop"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1496627058,
+    "lat": 27.6688752,
+    "lon": 85.3062936,
+    "tags": {
+      "highway": "bus_stop",
+      "name": "Nakhu Dobato",
+      "public_transport": "stop_position"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1497159559,
+    "lat": 27.7038843,
+    "lon": 85.3328860,
+    "tags": {
+      "highway": "bus_stop",
+      "name": "maitidevi bus stop"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1497194463,
+    "lat": 27.7074532,
+    "lon": 85.2824928,
+    "tags": {
+      "highway": "bus_stop",
+      "name": "Sitapaila Stop",
+      "public_transport": "stop_position"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1497194467,
+    "lat": 27.7248456,
+    "lon": 85.2978068,
+    "tags": {
+      "highway": "bus_stop"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1622172127,
+    "lat": 27.7191991,
+    "lon": 85.3068971,
+    "tags": {
+      "highway": "bus_stop"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1845683513,
+    "lat": 27.6922923,
+    "lon": 85.3361926,
+    "tags": {
+      "highway": "bus_stop",
+      "name": "Eyeplex Mall Bus Stop",
+      "public_transport": "stop_position"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1875745723,
+    "lat": 27.7349404,
+    "lon": 85.3146154,
+    "tags": {
+      "amenity": "parking",
+      "highway": "bus_stop",
+      "name": "Gongabu Chowk"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1886633796,
+    "lat": 27.7245976,
+    "lon": 85.3308860,
+    "tags": {
+      "bus": "yes",
+      "highway": "bus_stop",
+      "public_transport": "platform"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1892816724,
+    "lat": 27.6703044,
+    "lon": 85.3381309,
+    "tags": {
+      "highway": "bus_stop",
+      "name": "kharibot bus stop"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1898593311,
+    "lat": 27.7169187,
+    "lon": 85.3303697,
+    "tags": {
+      "bus": "yes",
+      "highway": "bus_stop",
+      "name": "Tangal Bus stop",
+      "public_transport": "platform"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1945933025,
+    "lat": 27.7399704,
+    "lon": 85.3372283,
+    "tags": {
+      "highway": "bus_stop",
+      "name": "Narayan Gopal Chowk"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1960744390,
+    "lat": 27.6761142,
+    "lon": 85.2938967,
+    "tags": {
+      "highway": "bus_stop",
+      "name": "Naya Bato",
+      "public_transport": "stop_position"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1960744496,
+    "lat": 27.6826476,
+    "lon": 85.2985509,
+    "tags": {
+      "bus": "yes",
+      "highway": "bus_stop",
+      "name": "Kumari Club",
+      "public_transport": "bus_stop"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1965646270,
+    "lat": 27.6770870,
+    "lon": 85.2819551,
+    "tags": {
+      "bus": "yes",
+      "highway": "bus_stop",
+      "name": "Naya Bazar",
+      "public_transport": "platform"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2077260194,
+    "lat": 27.7356261,
+    "lon": 85.3211982,
+    "tags": {
+      "bench": "yes",
+      "highway": "bus_stop",
+      "shelter": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2078703766,
+    "lat": 27.7458060,
+    "lon": 85.3275110,
+    "tags": {
+      "highway": "bus_stop",
+      "name": "Dhapasi Micro Stop"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2090601791,
+    "lat": 27.7181961,
+    "lon": 85.3174196,
+    "tags": {
+      "bench": "no",
+      "bin": "no",
+      "bus": "yes",
+      "highway": "bus_stop",
+      "lit": "yes",
+      "public_transport": "platform",
+      "shelter": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2127168043,
+    "lat": 27.7171421,
+    "lon": 85.3150735,
+    "tags": {
+      "bench": "yes",
+      "bin": "no",
+      "bus": "yes",
+      "highway": "bus_stop",
+      "lit": "yes",
+      "name": "Lainchowr Bus Station",
+      "public_transport": "platform",
+      "shelter": "yes",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2129636469,
+    "lat": 27.6811429,
+    "lon": 85.3315778,
+    "tags": {
+      "highway": "bus_stop",
+      "name": "tempo-micro last stop"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2165424725,
+    "lat": 27.6947007,
+    "lon": 85.3112710,
+    "tags": {
+      "bench": "yes",
+      "highway": "bus_stop",
+      "local_ref": "Bus stop",
+      "name:en": "12 to Kirtipur",
+      "shelter": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2166417333,
+    "lat": 27.6934425,
+    "lon": 85.3145628,
+    "tags": {
+      "bin": "no",
+      "highway": "bus_stop",
+      "local_ref": "Tripureshwar Bus Stop",
+      "shelter": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2166427223,
+    "lat": 27.6982946,
+    "lon": 85.2995431,
+    "tags": {
+      "highway": "bus_stop",
+      "name": "Kalimati Bus Stop"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2207719957,
+    "lat": 27.7197605,
+    "lon": 85.2869099,
+    "tags": {
+      "bus": "yes",
+      "highway": "bus_stop",
+      "name": "ठुलो भर्यांङ",
+      "name:en": "Thulo Bharyang",
+      "name:ne": "ठुलो भर्यांङ",
+      "public_transport": "platform"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2224261937,
+    "lat": 27.6729035,
+    "lon": 85.3340263,
+    "tags": {
+      "highway": "bus_stop",
+      "local_ref": "Bus Park",
+      "name": "New Bus Park"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2396022574,
+    "lat": 27.7362631,
+    "lon": 85.3476740,
+    "tags": {
+      "highway": "bus_stop",
+      "name": "Mandikhatar Stop"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2516894316,
+    "lat": 27.6597322,
+    "lon": 85.3065417,
+    "tags": {
+      "highway": "bus_stop"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2858938377,
+    "lat": 27.6953887,
+    "lon": 85.2813459,
+    "tags": {
+      "highway": "bus_stop",
+      "source": "GPS"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2858938378,
+    "lat": 27.6843335,
+    "lon": 85.3001006,
+    "tags": {
+      "highway": "bus_stop",
+      "source": "GPS"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2968523086,
+    "lat": 27.7241600,
+    "lon": 85.3311300,
+    "tags": {
+      "highway": "bus_stop",
+      "name": "Baluwatar Bus Stop"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3074566733,
+    "lat": 27.7175155,
+    "lon": 85.3465761,
+    "tags": {
+      "highway": "bus_stop"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3074581508,
+    "lat": 27.7106276,
+    "lon": 85.3443989,
+    "tags": {
+      "bench": "no",
+      "highway": "bus_stop",
+      "shelter": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3074584433,
+    "lat": 27.7178774,
+    "lon": 85.3478852,
+    "tags": {
+      "highway": "bus_stop"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3074602191,
+    "lat": 27.7180046,
+    "lon": 85.3471102,
+    "tags": {
+      "bus": "yes",
+      "highway": "bus_stop",
+      "public_transport": "platform"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3322873041,
+    "lat": 27.7092826,
+    "lon": 85.3166186,
+    "tags": {
+      "highway": "bus_stop",
+      "name": "Kantipath",
+      "name:en": "bus to Boudanath",
+      "name:zh": "公交车站，去博尔克"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3461553725,
+    "lat": 27.6798724,
+    "lon": 85.3493503,
+    "tags": {
+      "bench": "yes",
+      "bus": "yes",
+      "highway": "bus_stop",
+      "name": "Koteshwar Bus Stop",
+      "name:en": "Koteshwar Bus Stop",
+      "operator": "Public",
+      "public_transport": "platform",
+      "shelter": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3461553726,
+    "lat": 27.6911057,
+    "lon": 85.3264159,
+    "tags": {
+      "highway": "bus_stop"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3487894529,
+    "lat": 27.7221719,
+    "lon": 85.2769086,
+    "tags": {
+      "highway": "bus_stop",
+      "local_ref": "Gairi Gaun Bus Stop",
+      "name:en": "Gairigaon Bus Station"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3766701674,
+    "lat": 27.7421779,
+    "lon": 85.3325764,
+    "tags": {
+      "bench": "yes",
+      "highway": "bus_stop",
+      "name": "Basundhara Bus Stop",
+      "name:en": "Basundhara Bus Stop",
+      "shelter": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3806463148,
+    "lat": 27.7235413,
+    "lon": 85.2945540,
+    "tags": {
+      "highway": "bus_stop",
+      "name": "Dhungedhara",
+      "name:en": "Yerahiti",
+      "shelter": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4030822684,
+    "lat": 27.6790415,
+    "lon": 85.3497204,
+    "tags": {
+      "bench": "yes",
+      "bus": "yes",
+      "departures_board": "no",
+      "highway": "bus_stop",
+      "name": "Koteshwar Bus Stop",
+      "name:en": "Koteshwar Bus Stop",
+      "operator": "Public",
+      "public_transport": "platform",
+      "shelter": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4135808094,
+    "lat": 27.6993514,
+    "lon": 85.3289500,
+    "tags": {
+      "highway": "bus_stop",
+      "name": "Nepal Yatayat Anamnagar",
+      "name:en": "Anamnagar 2nd point"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4141131095,
+    "lat": 27.7039253,
+    "lon": 85.3328212,
+    "tags": {
+      "highway": "bus_stop",
+      "name": "Maitidevi"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4204194789,
+    "lat": 27.7005956,
+    "lon": 85.3234849,
+    "tags": {
+      "highway": "bus_stop",
+      "name": "Newplaza"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4206479489,
+    "lat": 27.6923015,
+    "lon": 85.3455249,
+    "tags": {
+      "highway": "bus_stop",
+      "name": "तिनकुने",
+      "name:en": "tinkune"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4266695860,
+    "lat": 27.7308707,
+    "lon": 85.2939807,
+    "tags": {
+      "highway": "bus_stop",
+      "name": "Kharibot Micro Station"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4342984792,
+    "lat": 27.7045119,
+    "lon": 85.2819731,
+    "tags": {
+      "highway": "bus_stop",
+      "name": "Soltidobato"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4366575209,
+    "lat": 27.7025429,
+    "lon": 85.3165765,
+    "tags": {
+      "highway": "bus_stop",
+      "wheelchair": "limited"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4465559091,
+    "lat": 27.7470420,
+    "lon": 85.3242737,
+    "tags": {
+      "highway": "bus_stop",
+      "name:en": "Greenland Micro Stand"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4478271593,
+    "lat": 27.6779470,
+    "lon": 85.3162155,
+    "tags": {
+      "highway": "bus_stop"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4505901091,
+    "lat": 27.6703694,
+    "lon": 85.2905385,
+    "tags": {
+      "highway": "bus_stop",
+      "name:en": "Chobhar Gate",
+      "name:hi": "चाेभार गेट"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4539565993,
+    "lat": 27.7129607,
+    "lon": 85.2897532,
+    "tags": {
+      "highway": "bus_stop",
+      "name:en": "Kimdol chowk"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4561899390,
+    "lat": 27.6734413,
+    "lon": 85.3421630,
+    "tags": {
+      "highway": "bus_stop",
+      "name:en": "Balkumari, koteshwor bus stop"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4561910892,
+    "lat": 27.6708982,
+    "lon": 85.3397300,
+    "tags": {
+      "highway": "bus_stop",
+      "name:en": "Balkumari Bus Stop"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4585338298,
+    "lat": 27.6783042,
+    "lon": 85.3389673,
+    "tags": {
+      "highway": "bus_stop",
+      "mobile": "9841539000",
+      "name": "Sarus Beauty Parlour And Cosmetic Training Center",
+      "name:en": "Micro bus stop",
+      "shop": "cosmetics"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4607638798,
+    "lat": 27.7366406,
+    "lon": 85.3019049,
+    "tags": {
+      "highway": "bus_stop",
+      "name:en": "Lekhnath Sadak"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4615652290,
+    "lat": 27.6986119,
+    "lon": 85.3455240,
+    "tags": {
+      "highway": "bus_stop",
+      "operator": "gh"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4671940789,
+    "lat": 27.7276946,
+    "lon": 85.3171184,
+    "tags": {
+      "highway": "bus_stop",
+      "name:en": "imadoll"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4677489699,
+    "lat": 27.6578462,
+    "lon": 85.3225256,
+    "tags": {
+      "highway": "bus_stop",
+      "name:en": "Chapagaun dobato"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4731419521,
+    "lat": 27.7129627,
+    "lon": 85.3054371,
+    "tags": {
+      "highway": "bus_stop"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4744832122,
+    "lat": 27.6868986,
+    "lon": 85.2512353,
+    "tags": {
+      "highway": "bus_stop",
+      "name:en": "Satungal Chowk"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4766617731,
+    "lat": 27.6761959,
+    "lon": 85.3158001,
+    "tags": {
+      "bench": "yes",
+      "highway": "bus_stop",
+      "name:en": "Pulchowk Bus Stop",
+      "shelter": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4808763721,
+    "lat": 27.6827881,
+    "lon": 85.3021862,
+    "tags": {
+      "highway": "bus_stop",
+      "name:en": "Jhamsikhel"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4821801221,
+    "lat": 27.6903575,
+    "lon": 85.3177572,
+    "tags": {
+      "highway": "bus_stop"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4824360524,
+    "lat": 27.7134011,
+    "lon": 85.3187487,
+    "tags": {
+      "bench": "no",
+      "bin": "no",
+      "highway": "bus_stop",
+      "lit": "yes",
+      "shelter": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4834526521,
+    "lat": 27.7192324,
+    "lon": 85.3182080,
+    "tags": {
+      "bus": "yes",
+      "check_date:shelter": "2023-06-16",
+      "highway": "bus_stop",
+      "name:en": "Lazimpat Bus Stop",
+      "public_transport": "platform",
+      "shelter": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4851758928,
+    "lat": 27.7099805,
+    "lon": 85.3260604,
+    "tags": {
+      "bus": "yes",
+      "highway": "bus_stop",
+      "name": "Kamalpokhari Bus Stop",
+      "public_transport": "platform",
+      "shelter": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4903081921,
+    "lat": 27.6939710,
+    "lon": 85.3193479,
+    "tags": {
+      "highway": "bus_stop",
+      "name:en": "Maitighar Bus Stop"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4903082021,
+    "lat": 27.6900842,
+    "lon": 85.3175552,
+    "tags": {
+      "highway": "bus_stop",
+      "name:en": "Thapathali bus stop",
+      "shelter": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4903082022,
+    "lat": 27.6810897,
+    "lon": 85.3176495,
+    "tags": {
+      "bench": "yes",
+      "highway": "bus_stop",
+      "name": "Krishnagalli Bus Stop",
+      "name:en": "Krishnagalli Bus Stop",
+      "shelter": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4903082023,
+    "lat": 27.6807853,
+    "lon": 85.3174030,
+    "tags": {
+      "bench": "no",
+      "highway": "bus_stop",
+      "name:en": "Krishna galli bus stop",
+      "shelter": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4916056821,
+    "lat": 27.6883306,
+    "lon": 85.3348522,
+    "tags": {
+      "highway": "bus_stop",
+      "name:en": "New Baneshwar bus stop"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4920024521,
+    "lat": 27.7349479,
+    "lon": 85.3422900,
+    "tags": {
+      "highway": "bus_stop",
+      "name:en": "Chappal Karkhana Bus Stop"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4940227523,
+    "lat": 27.7087545,
+    "lon": 85.3146285,
+    "tags": {
+      "highway": "bus_stop",
+      "name:en": "Jamal Chowk"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5081406121,
+    "lat": 27.7069046,
+    "lon": 85.3447142,
+    "tags": {
+      "highway": "bus_stop",
+      "name:en": "Gausala bus stop गौशाला बस स्टप८६६७",
+      "shelter": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5086421321,
+    "lat": 27.7335948,
+    "lon": 85.3476608,
+    "tags": {
+      "highway": "bus_stop",
+      "name:en": "Ramcha chowk"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5109126723,
+    "lat": 27.7213881,
+    "lon": 85.2799852,
+    "tags": {
+      "highway": "bus_stop",
+      "name:en": "Milan Chowk"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5169208333,
+    "lat": 27.7170154,
+    "lon": 85.3466126,
+    "tags": {
+      "highway": "bus_stop",
+      "name": "Chabhahil Chowk",
+      "name:en": "Chabahil"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5181221232,
+    "lat": 27.7319470,
+    "lon": 85.3442753,
+    "tags": {
+      "highway": "bus_stop",
+      "name": "Dhumbaharai chock"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5204346222,
+    "lat": 27.6732928,
+    "lon": 85.3421010,
+    "tags": {
+      "highway": "bus_stop",
+      "name:en": "Balkumari Pul Bus stop बालकुमारी बस स्टप६६७",
+      "operator": "नेपाल यातायात"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5300595236,
+    "lat": 27.6739274,
+    "lon": 85.3141864,
+    "tags": {
+      "highway": "bus_stop",
+      "name:en": "sajha bus stop"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5362570123,
+    "lat": 27.7072377,
+    "lon": 85.2825515,
+    "tags": {
+      "highway": "bus_stop",
+      "name:en": "Sitapaila"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5367652205,
+    "lat": 27.6899702,
+    "lon": 85.3357427,
+    "tags": {
+      "bench": "yes",
+      "bus": "yes",
+      "highway": "bus_stop",
+      "name": "Baneshwar Bus Station",
+      "public_transport": "platform",
+      "shelter": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5528676227,
+    "lat": 27.7204885,
+    "lon": 85.3461547,
+    "tags": {
+      "highway": "bus_stop"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5538962121,
+    "lat": 27.6968249,
+    "lon": 85.3058547,
+    "tags": {
+      "highway": "bus_stop",
+      "name:en": "Teku Bus Stop"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5720133821,
+    "lat": 27.7064893,
+    "lon": 85.3145160,
+    "tags": {
+      "highway": "bus_stop",
+      "name:en": "Ratna Park"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5784633469,
+    "lat": 27.7260665,
+    "lon": 85.3049731,
+    "tags": {
+      "highway": "bus_stop",
+      "name": "Balaju Chowk Bus Stop"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5821878253,
+    "lat": 27.6929997,
+    "lon": 85.2807811,
+    "tags": {
+      "bus": "yes",
+      "departures_board": "timetable",
+      "highway": "bus_stop",
+      "name": "Kalanki Long Distance Bus-stop",
+      "name:en": "Late Bus or Minis to Pokhara, etc.",
+      "public_transport": "platform",
+      "shelter": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5864596986,
+    "lat": 27.7185759,
+    "lon": 85.3082205,
+    "tags": {
+      "bench": "no",
+      "bin": "no",
+      "highway": "bus_stop",
+      "lit": "yes",
+      "name:en": "Pokhara Tourist Bus",
+      "shelter": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5907660838,
+    "lat": 27.7087535,
+    "lon": 85.3312930,
+    "tags": {
+      "bus": "yes",
+      "highway": "bus_stop",
+      "name": "Mahanagar and Sajha Yatayat;Local Bus stand",
+      "public_transport": "platform"
+    }
+  },
+  {
+    "type": "node",
+    "id": 6052881691,
+    "lat": 27.6990751,
+    "lon": 85.2814445,
+    "tags": {
+      "highway": "bus_stop",
+      "name:en": "Syuchatar"
+    }
+  },
+  {
+    "type": "node",
+    "id": 6053557887,
+    "lat": 27.7002299,
+    "lon": 85.2817551,
+    "tags": {
+      "highway": "bus_stop",
+      "name:en": "Bafal"
+    }
+  },
+  {
+    "type": "node",
+    "id": 6100126497,
+    "lat": 27.7169528,
+    "lon": 85.3048394,
+    "tags": {
+      "bench": "no",
+      "highway": "bus_stop",
+      "name": "Greenline Bus Stop",
+      "shelter": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 6119569890,
+    "lat": 27.6990324,
+    "lon": 85.2814676,
+    "tags": {
+      "highway": "bus_stop",
+      "name:en": "Syuchatar"
+    }
+  },
+  {
+    "type": "node",
+    "id": 6379886785,
+    "lat": 27.7440965,
+    "lon": 85.3003106,
+    "tags": {
+      "highway": "bus_stop",
+      "name:en": "Sesmati Bus Stop"
+    }
+  },
+  {
+    "type": "node",
+    "id": 6440259386,
+    "lat": 27.6920051,
+    "lon": 85.2823352,
+    "tags": {
+      "highway": "bus_stop"
+    }
+  },
+  {
+    "type": "node",
+    "id": 6482645186,
+    "lat": 27.7191973,
+    "lon": 85.3125262,
+    "tags": {
+      "bench": "no",
+      "bin": "no",
+      "highway": "bus_stop",
+      "lit": "yes",
+      "name:en": "Micro bus to Banyitar",
+      "shelter": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 6585014732,
+    "lat": 27.7407558,
+    "lon": 85.3269269,
+    "tags": {
+      "bench": "no",
+      "bus": "yes",
+      "highway": "bus_stop",
+      "lit": "no",
+      "name": "Shahenshah Micro Bus Stop",
+      "public_transport": "platform",
+      "shelter": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 6945144593,
+    "lat": 27.7178762,
+    "lon": 85.3067864,
+    "tags": {
+      "highway": "bus_stop",
+      "name:en": "Tourist Bus Pokhara"
+    }
+  },
+  {
+    "type": "node",
+    "id": 7076752192,
+    "lat": 27.6621751,
+    "lon": 85.3171035,
+    "tags": {
+      "bench": "no",
+      "bin": "no",
+      "highway": "bus_stop",
+      "name:en": "Mahalaxmisthan bus stop",
+      "shelter": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 7274254586,
+    "lat": 27.6893207,
+    "lon": 85.2843216,
+    "tags": {
+      "highway": "bus_stop",
+      "name:en": "Khasi Bazar Bus Stop"
+    }
+  },
+  {
+    "type": "node",
+    "id": 7658767485,
+    "lat": 27.7449232,
+    "lon": 85.3075530,
+    "tags": {
+      "highway": "bus_stop",
+      "name:en": "शुभकामना चोक Shubhakamana Chowk"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9412182417,
+    "lat": 27.7007581,
+    "lon": 85.3233339,
+    "tags": {
+      "highway": "bus_stop",
+      "name": "New Plaza Stop"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9524374618,
+    "lat": 27.7286529,
+    "lon": 85.3249144,
+    "tags": {
+      "bench": "yes",
+      "highway": "bus_stop",
+      "name:en": "Bus Stop",
+      "shelter": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9612975124,
+    "lat": 27.6654600,
+    "lon": 85.2547533,
+    "tags": {
+      "highway": "bus_stop",
+      "name": "Babita's home"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9642624139,
+    "lat": 27.6516767,
+    "lon": 85.2861636,
+    "tags": {
+      "highway": "bus_stop",
+      "name": "Lausi ko bota"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9801832406,
+    "lat": 27.6696067,
+    "lon": 85.2875627,
+    "tags": {
+      "highway": "bus_stop"
+    }
+  },
+  {
+    "type": "node",
+    "id": 10228706017,
+    "lat": 27.7033527,
+    "lon": 85.3139181,
+    "tags": {
+      "highway": "bus_stop",
+      "name:en": "Tempu per Pashupathinat"
+    }
+  },
+  {
+    "type": "node",
+    "id": 10685761805,
+    "lat": 27.7351123,
+    "lon": 85.3313234,
+    "tags": {
+      "bench": "no",
+      "highway": "bus_stop",
+      "name": "Teaching Hospital",
+      "shelter": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 10736560774,
+    "lat": 27.6842590,
+    "lon": 85.2974460,
+    "tags": {
+      "bus": "yes",
+      "highway": "bus_stop",
+      "name": "Balkhu",
+      "public_transport": "bus_stop"
+    }
+  },
+  {
+    "type": "node",
+    "id": 10814739406,
+    "lat": 27.7260707,
+    "lon": 85.3031511,
+    "tags": {
+      "highway": "bus_stop",
+      "name:en": "Waiting area night bus"
+    }
+  },
+  {
+    "type": "node",
+    "id": 11158532306,
+    "lat": 27.6849089,
+    "lon": 85.2965394,
+    "tags": {
+      "highway": "bus_stop",
+      "name:en": "Balkhu"
+    }
+  }
+
+]
+
